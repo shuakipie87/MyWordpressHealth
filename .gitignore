@@ -1,0 +1,44 @@
+*.env
+*.log
+*.sql
+*backup*
+
+# WordPress core files
+wp-config.php
+.htaccess
+
+# Ignore everything in the wp-content folder except themes and plugins
+wp-content/*
+#!wp-content/themes/
+#!wp-content/plugins/
+
+# Optional: Ignore specific theme or plugin if needed
+# wp-content/themes/your-theme-name/
+# wp-content/plugins/your-plugin-name/
+
+# Ignore uploads and cache
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+
+# Logs and debug files
+*.log
+debug.log
+error_log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Composer / Node
+vendor/
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+*.swp
+*.swo

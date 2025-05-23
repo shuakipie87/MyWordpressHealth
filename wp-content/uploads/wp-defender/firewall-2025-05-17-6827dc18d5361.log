@@ -1,0 +1,6 @@
+[2025-05-17T00:45:12+00:00] Server public IP whitelisted successfully.
+[2025-05-17T08:00:10+00:00] Cron job wpdef_firewall_send_compact_logs_to_api triggered at site 1
+[2025-05-17T08:00:10+00:00] wpdef_firewall_send_compact_logs_to_api is processing from site 1
+[2025-05-17T12:45:12+00:00] Server public IP whitelisted successfully.
+[2025-05-17T20:00:11+00:00] Cron job wpdef_firewall_send_compact_logs_to_api triggered at site 1
+[2025-05-17T20:00:11+00:00] wpdef_firewall_send_compact_logs_to_api is processing from site 1

@@ -1,0 +1,794 @@
+@media(min-width:1300px){
+/* .faq-tab .accordion .accordion-item .accordion-body {
+    min-height: 210px;
+} */
+}
+@media(min-width:1200px){
+.domain-serach .theme-btn {
+    padding: 18px 40px;
+}
+}
+@media (max-width:1366px) {
+.container-fluid {
+    max-width: 1266px;
+}
+.home-banner h1 {
+    font-size: 56px;
+}
+.home-banner p {
+    font-size: 16px;
+}
+.list-check li {
+    font-size: 16px;
+}
+}
+@media (max-width:1265px) {
+.login {
+    margin-left:100px;
+}
+header ul li .nav-link, .navbar .nav-menu li a, .navbar ul li a {
+    margin:0 20px;
+}
+.home-banner em {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.home-banner h1 {
+    font-size: 48px;
+}
+.home-banner h1 {
+    padding-bottom: 30px;
+    background-size: 85%;
+}
+.list-check li {
+    font-size: 14px;
+}
+.theme-btn, .newsletter-form input.wpcf7-submit {
+    padding: 14px 45px;
+}
+.card-plan .card .icon img {
+    width: 100px;
+    margin-bottom: 30px;
+}
+.card-plan .card h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.py-140 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+}
+@media (max-width:1199px) {
+.login {
+    margin-left: 25px;
+}
+header ul li .nav-link, .navbar .nav-menu li a, .navbar ul li a {
+    margin: 0 18px;
+}
+.py-90 {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.home-banner p {
+    line-height: 26px;
+}
+.list-check.inline-list {
+    gap: 12px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+.list-check li{
+    font-size:14px;
+    padding-left:20px;
+}
+.theme-btn, .newsletter-form input.wpcf7-submit{
+    padding:14px 30px;
+    margin:5px 0;
+    white-space: nowrap;
+}
+.card-plan .card{
+    padding:32px 18px;
+}
+.domain-serach{
+    margin-top:35px;
+}
+.domain-suggest{
+    gap:35px;
+}
+.domain-suggest ul{
+    gap:32px;
+}
+.py-100 {
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.heading h2{
+    font-size:34px;
+}
+.heading > span{
+    font-size:18px;
+}
+.domain-suggest ul li {
+    font-size: 18px;
+}
+.bussine-card {
+    padding: 25px 30px 15px 25px;
+}
+.bussine-card {
+    gap: 25px;
+}
+.mt-60 {
+    margin-top: 35px;
+}
+.py-140 {
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+.bussine-card {
+    height: 100%;
+}
+.heading h1 {
+    font-size: 54px;
+}
+.user-detail h5 {
+    font-size: 36px;
+    line-height: 42px;
+}
+.team-slider .team-items p {
+    min-height: 160px;
+}
+.team-slider .team-items {
+    padding: 45px 25px;
+}
+}
+@media (max-width:991px) {
+.login a {
+    padding: 10px 25px;
+    font-size: 14px;    
+}
+header ul li .nav-link, .navbar .nav-menu li a, .navbar ul li a {
+    margin: 0 14px;
+    font-size: 14px;
+}
+.login {
+    margin-left: 15px;
+}
+.heading-text {
+    max-width: 100%;
+}
+.py-90 {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.home-banner em {
+    margin-bottom: 10px;
+}
+.home-banner h1 {
+    font-size: 42px;
+    background-size: 100%;
+    display: inline-block;
+}
+.home-banner p {
+    margin-bottom: 15px;
+}
+.list-check.inline-list {
+    margin-bottom: 22px;
+}
+.py-70 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card-plan .card {
+    padding: 25px 15px;
+}
+.card-plan .card .icon img {
+    width: 85px;
+    margin-bottom: 25px;
+}
+.card-plan .card h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.card-plan .card p {
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.card-plan .card .theme-btn {
+    padding: 12px 25px;
+    font-size: 15px;
+}
+.py-100 {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.domain-serach {
+    margin-top: 22px;
+}
+.domain-suggest {
+    gap: 20px;
+    padding-left: 0;
+    justify-content: center;
+}
+.domain-suggest ul {
+    gap: 22px;
+}
+.domain-suggest {
+    margin-top: 20px;
+}
+.heading h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.domain-suggest ul li {
+    font-size: 16px;
+}
+.py-140 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.card-icon img {
+    min-width: 48px;
+}
+.bussine-card {
+    gap: 15px;
+}
+.card-caption h5 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.list-choose li {
+    padding: 0 20px 30px;
+}
+.list-choose li h4 {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 auto 15px;
+}
+.list-choose li p{
+    font-size:15px;
+    line-height:24px;
+}
+.team-slider{
+    margin-top:40px;
+}
+.team-slider .team-items{
+    padding:30px 30px;
+}
+.team-slider .team-items p{
+    margin-bottom:24px;
+}
+.team-slider .user-name h4{
+    font-size:18px;
+}
+.team-slider .user-name small{
+    font-size:15px;
+}
+.footer-getstart {
+    padding: 42px 50px;
+}
+.dots .slick-dots {
+    margin: 40px 0 10px;
+}
+.foter-menu {
+    padding: 50px 0 30px;
+}
+.list-check li {
+    font-size: 15px;
+}
+.heading-plan {
+    font-size: 24px;
+    margin-bottom: 55px;
+}
+.heading-plan img {
+    max-width: 85px;
+}
+.price-box .pricing-card-title {
+    font-size: 45px;
+}
+.price-box {
+    justify-content: center;
+    gap: 25px;
+}
+.heading h1 {
+    font-size: 48px;
+    line-height:65px;
+    margin-bottom: 18px;
+}
+.faq-tab .accordion-header .accordion-button, .faq-tab .accordion-header .accordion-button:not(.collapsed){
+    font-size: 16px;
+    padding: 15px 20px;
+}
+.faq-tab .accordion .accordion-item .accordion-body {
+    padding: 0px 20px 15px;
+    font-size: 16px;
+}
+.user-detail {
+    bottom: 20px;
+    padding: 0 20px;
+}
+.user-detail h5 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 0;
+}
+.py-120 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.our-mission.card {
+    padding: 25px 50px;
+}
+.contact-bx li .bg-bx h3 {
+    font-size: 26px;
+    line-height:36px;
+}
+.contact-bx li .bg-bx{
+    height:255px;
+    gap:12px;
+}
+.support-form{
+    padding-top:35px;
+    margin-top:30px;
+}
+.support-inquiry form .wpcf7-form-control {
+    height: 48px;
+    font-size: 16px;
+}
+.home-banner {
+    text-align: center;
+}
+.list-check.inline-list {
+    justify-content: center;
+}
+.banner-img {
+    text-align: center;
+}
+.heading-text .theme-color, .heading .theme-color{
+    color: #2A9BD5;
+    display: block;
+}
+.home-banner h1 {
+    line-height: normal;
+}
+}
+@media (max-width:767px) {
+.py-90 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}  
+.home-banner h1{
+    font-size:36px;
+    line-height:45px;
+}
+.theme-btn, .newsletter-form input.wpcf7-submit{
+    padding:14px 26px;
+    font-size:14px;
+}
+.pricing-card-title {
+    font-size:38px;
+}
+.card-plan .popular-card .card, .card-plan .card:hover {
+    box-shadow: 0px 25px 25px 0px rgba(31, 156, 221, 0.10);
+}
+.py-100{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.pt-100{
+    padding-top: 60px;
+}
+.pb-100{
+    padding-bottom: 60px;
+}
+.domain-suggest ul li {
+    font-size: 15px;
+}
+.py-140{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.pb-140{
+    padding-bottom: 70px;
+}
+.pt-140{
+    padding-top: 70px;
+}
+.py-80{
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.choose-sec .list-choose {
+    row-gap: 20px;
+    justify-content: center;
+}
+.list-choose li {
+    width: 50%;
+}
+.list-choose li:last-child {
+    border: 0;
+}
+.footer-getstart {
+    padding: 30px 30px;
+}
+.heading h2 {
+    font-size: 26px;
+    line-height: 35px;
+}
+.footer-getstart .heading p {
+    font-size: 15px;
+    line-height: normal;
+}
+.footer-getstart {
+    padding: 30px 30px;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 10px;
+}
+.theme-btn, .newsletter-form input.wpcf7-submit {
+    padding: 12px 22px;
+    font-size: 14px;
+}
+.foter-menu {
+    padding: 35px 0 25px;
+}
+.foter-menu h4 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.f-logo {
+    text-align: center;
+}
+.f-social {
+    gap: 28px;
+    justify-content: center;
+}
+.foter-menu ul li {
+    margin-bottom:8px;
+}
+.card-plan .card ul {
+    margin: 20px 0 28px;
+}
+.nav-right{
+    flex-direction: row-reverse;
+}
+.menu-menu-1-container, .navbar .nav-menu, .navbar ul{
+    width:100%;
+}
+.navbar .nav-menu, .navbar ul{
+    gap:8px;
+    flex-direction: column;
+}
+.login {
+    margin-left:0;
+    margin-right:15px;
+}
+.card-plan .card ul {
+    margin: 20px 0 22px;
+}
+.navbar .navbar-brand img {
+    width: 90px;
+}
+.domain-suggest ul li {
+    min-width: auto;
+}
+.heading-plan img {
+    max-width: 65px;
+}
+.price-box li label .fa-check-circle {
+    font-size: 40px;
+    width: 46px;
+    height: 46px;
+}
+.price-box li label {
+    height: 255px;
+}
+.price-box .pricing-card-title {
+    font-size: 38px;
+    line-height:40px;
+}
+.price-box span {
+    font-size: 16px;
+}
+.plan-popup {
+    position: fixed;
+    padding: 50px 0 20px;
+    height: 100%;
+    overflow: auto;
+}
+.heading h1{
+    font-size:40px;
+    line-height:48px;
+    margin-bottom:18px;
+}
+.banner-inner .heading p{
+    min-height:auto;
+    margin-bottom:0;
+}
+.search-faq{
+    margin:0 auto 30px;
+}
+.search-faq input[type="serach"]{
+    padding:15px 18px;
+    padding-right:80px;
+}
+.faq-tab .accordion .accordion-item {
+    margin-bottom:15px;
+}
+.video-thumb iframe {
+    height: 250px;
+}
+.py-120 {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.our-mission.card {
+    padding: 25px 25px;
+}
+.contact-bx li .bg-bx{
+    height:240px;
+}
+.contact-bx li .bg-bx h3{
+    font-size:24px;
+    line-height:42px;
+}
+.contact-bx li{
+    width:50%;
+}
+.heading > span{
+    font-size:16px;
+}
+.support-form{
+    padding-top:35px;
+    margin-top:30px;
+}
+.support-inquiry .form-group p{
+    margin-bottom: 0;
+}
+.domain-suggest ul {
+    gap:15px;
+}
+.domain-serach .form-group input[type="search"]{
+    padding:15px 30px;
+    padding-left:50px;
+  }
+  .team-slider .team-items p {
+    min-height:auto;
+}
+.theme-btn, .newsletter-form input.wpcf7-submit{
+    min-width:152px;
+    text-align:center;
+    justify-content:center;
+}
+.domain-serach .theme-btn{
+    min-width:152px;
+}
+.list-choose li{
+    width:100%;
+    padding:20px 15px;
+    min-height:auto;
+    border-bottom:1px solid rgba(31, 156, 221, 0.20);
+    border-right:0;
+}
+.loading-img img{
+    max-width:65px;
+    margin-bottom:20px;
+}
+  .btn , .mw p , .newsletter-form input.wpcf7-submit{
+    width: 100%;
+    }
+}
+@media(max-width:575px){
+.domain-serach .d-flex.gap-3 {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.domain-suggest {
+    margin-top:15px;
+    flex-direction: column;
+}
+.domain-suggest ul {
+    gap: 12px;
+}
+.domain-suggest ul li {
+    font-size: 14px;
+    padding: 5px 12px;
+}
+.py-90, .py-70, .py-100, .py-140, .py-120, .py-80{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.pt-100, .pt-140, .pt-120{
+    padding-top: 35px;
+}
+.pb-100, .pb-140, .pb-120{
+    padding-bottom: 35px;
+}
+.home-banner em {
+    font-size: 15px;
+}
+.home-banner {
+    text-align: center;
+}
+.home-banner h1 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 20px;
+    background-size: contain;
+}
+.home-banner p {
+    font-size: 15px;
+}
+.list-check.inline-list {
+    justify-content: center;
+}
+.theme-btn.me-3 {
+    margin-right: auto !important;
+}
+.card-plan .card .icon img {
+    width: 75px;
+    margin-bottom: 15px;
+}
+.card-plan .card .theme-btn {
+    font-size: 14px;
+}
+.heading > span {
+    font-size: 16px;
+    line-height: normal;
+}
+.domain-serach .form-group input[type="serach"] {
+    padding: 16px 30px;
+    font-size: 14px;
+    padding-left: 55px;
+}
+.bussine-card {
+    gap: 15px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.card-caption p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.mt-60 {
+    margin-top: 28px;
+}
+.blue-bg .heading p, .sky-bg .heading p , .heading p{
+    font-size: 15px;
+    line-height: 24px;
+}
+.list-choose li {
+    width: 100%;
+    padding: 20px 15px;
+    min-height: auto;
+    border-bottom: 1px solid rgba(31, 156, 221, 0.20);
+    border-right: 0;
+}
+.choose-sec .list-choose{
+    row-gap:15px;
+    justify-content:center;
+}
+.choose-sec .list-choose{
+    margin-top:25px;
+}
+.team-slider .team-items{
+    padding:20px 15px;
+    margin:0 5px;
+}
+.team-slider .team-items p{
+    font-size:15px;
+    margin-bottom:20px;
+}
+.dots .slick-dots {
+    margin:22px 0 10px;
+}
+.team-slider {
+    margin-top:35px;
+}
+.pb-5 {
+    padding-bottom:2rem !important;
+}
+.newsletter-form form .wpcf7-form-control:not(.wpcf7-submit), .support-inquiry form .wpcf7-form-control:not(.wpcf7-submit) {
+    font-size:14px;
+    padding: 10px;
+}
+.copyright p {
+    line-height: normal;
+}
+.global-icon img {
+    width: 22px;
+}
+.domain-suggest {
+    gap: 15px;
+}
+.card-plan .card ul {
+    flex-direction: column;
+    align-items: center;
+}
+.heading-plan{
+    font-size:22px;
+    margin-bottom:22px;
+}
+.heading-plan img{
+    max-width:55px;
+}
+.price-box .pricing-card-title{
+    font-size:36px;
+    line-height:40px;
+}
+.price-box{
+    gap:15px;
+}
+.price-box li{
+    width:85%;
+}
+.card-plan .theme-btn.close-popup {
+    margin-left:5px !important;
+    margin-right:5px !important;
+}
+.heading h1 {
+    font-size:30px;
+    line-height:38px;
+}
+.breadcrumb li a, .breadcrumb li.active{
+    font-size:14px;
+}
+.team-profile{
+    text-align:center;
+}
+.mission-caption p{
+    font-size:15px;
+    margin-bottom:10px;
+}
+.video-thumb iframe{
+    height:220px;
+}
+.team-group{
+    margin-top:28px;
+}
+.contact-bx li{
+    width:100%;
+}
+.contact-bx li .bg-bx{
+    width:100%;
+    background-size:cover;
+}
+.support-form{
+    padding-top:22px;
+    margin-top:20px;
+}
+.support-caption p{
+    font-size:15px;
+    line-height:22px;
+    margin-bottom:14px;
+}
+.inquiry-option{
+    gap:20px;
+}
+.inquiry-option ul{
+    gap: 15px;
+}
+.f-social{
+    gap:20px;
+}
+.home-banner .theme-btn{
+    min-width:200px;
+    text-align:center;
+    justify-content:center;
+    margin:5px 6px !important;
+}
+.domain-serach .theme-btn{
+    min-width:125px;
+}
+.domain-serach .theme-btn{
+    min-width:140px;
+}
+.faq-tab .accordion-header .accordion-button, .faq-tab .accordion-header .accordion-button:not(.collapsed){
+    padding:15px 15px;
+}
+.domain-serach .d-flex.gap-3 {
+    gap: .5rem !important;
+  }
+}

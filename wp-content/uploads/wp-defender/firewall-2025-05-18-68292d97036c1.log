@@ -1,0 +1,7 @@
+[2025-05-18T00:45:10+00:00] Server public IP whitelisted successfully.
+[2025-05-18T08:00:10+00:00] Cron job wpdef_firewall_send_compact_logs_to_api triggered at site 1
+[2025-05-18T08:00:10+00:00] wpdef_firewall_send_compact_logs_to_api is processing from site 1
+[2025-05-18T08:00:11+00:00] AntiBot Global Firewall: Process for sending logs completed.
+[2025-05-18T12:45:11+00:00] Server public IP whitelisted successfully.
+[2025-05-18T20:00:10+00:00] Cron job wpdef_firewall_send_compact_logs_to_api triggered at site 1
+[2025-05-18T20:00:10+00:00] wpdef_firewall_send_compact_logs_to_api is processing from site 1
